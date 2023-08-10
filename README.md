@@ -139,7 +139,7 @@ Once the Telegram bot was operational, the subsequent task was to seamlessly int
 <p>Upon successful retrieval of the horoscope information from the Divine API, the workflow proceeds to the final action. This concluding action is tailored to send a message back to the user who initiated the request for their daily horoscope. The retrieved horoscope details are thoughtfully crafted into a user-friendly message format. This message is then dispatched through the Telegram bot to reach the user, providing them with the sought-after horoscope insights for the day.</p><br>
 <p>Throughout this intricately designed process, each step is executed with precision and efficiency. The interaction flow from the user's initial button click to the eventual delivery of personalized horoscope information is carefully orchestrated. By integrating the Telegram bot, Zapier, and the Divine API, this system ensures that users receive a seamless and timely experience, with their horoscope needs fulfilled effortlessly within the messaging platform they are comfortable using.</p><br>
 
-[FINAL IMPLEMENTATION](https://drive.google.com/file/d/1nHQy1SNs8dN8uuXP71uFKDgBvisFxT-C/view?usp=sharing)
+[FINAL IMPLEMENTATION](https://drive.google.com/file/d/1nHQy1SNs8dN8uuXP71uFKDgBvisFxT-C/view?usp=sharing)(Video Link)
 
 
 
