@@ -17,4 +17,37 @@ This project centers on providing daily horoscope readings to users. Essential t
 7.	***Choose Action App***: For the action, you would select an app that you want to connect with Divine API. This app could be an email service, a messaging platform, a spreadsheet tool, or any other app supported by Zapier.
 8.	***Configure Action Data***: Depending on the chosen action app, you would configure how the data from Divine API should be used in the action. For example, if you're sending a daily horoscope to an email address, you'd specify the recipient and the content to include in the email.
 9.	***Test Action***: After configuring the action, you would test it to ensure that Zapier can successfully perform the desired action using the data from Divine API.
+![Screenshot 2023-08-09 112910 -1](https://github.com/abhinavverma658/Daily_Horoscope_Telegram_Bot/assets/73075510/72f5fc3f-4cd5-44aa-830d-6ee6bd2f4447)
+Divine API Integration
+
+## 2. Creating Telegram bot and accessing in UChat
+ ### Creating a Telegram Bot:
+
+1.	***Create a Telegram Account***: create a Telegram account. This is where your bot will be associated.
+
+2.	***BotFather***: Open the Telegram app and search for the "BotFather" bot. This is the official Telegram bot that helps you create and manage other bots.
+
+3.	***Start the Conversation***: Start a chat with the BotFather and send the /start command to initiate the conversation.
+
+4.	***Create a New Bot***: To create a new bot, send the /newbot command. Follow the prompts to choose a name for your bot and a username that ends with "bot."
+
+5.	***Receive Access Token***: Once your bot is created, the BotFather will provide you with an access token. This access token is essential for interacting with your bot's API.
+
+### Accessing the Telegram Bot in UChat:
+
+1.	***Register on UChat***: If you haven't already, register for an account on the UChat platform where you want to integrate the Telegram bot.
+2.	***Access Token Integration***: In UChat, locate the section or settings where you can integrate external services or bots. Look for options related to chatbots or messaging integrations.
+3.	***Enter Access Token***: Within the integration settings, you'll likely find a field to enter the Telegram bot access token. Paste the access token you received from the BotFather here.
+4.	***Configure Integration***: Depending on the capabilities of the UChat platform, you might have additional settings to configure. This could include specifying which events should trigger interactions with the Telegram bot.
+5.	***Testing***: Save the integration settings and test the integration. You might send test messages or perform actions that should trigger the Telegram bot to respond.
+6.	***Monitor and Troubleshoot***: Once the integration is set up, monitor its behavior to ensure that messages are being properly sent to and received from the Telegram bot. If you encounter any issues, check your integration settings and access token.
+7.	***Implement Use Cases***: Depending on your requirements, you can implement various use cases. 
+![Screenshot 2023-08-09 114811-2](https://github.com/abhinavverma658/Daily_Horoscope_Telegram_Bot/assets/73075510/0ff168f2-d8d9-4b03-929d-dab34214597c)
+Accessing telegram bot in Uchat
+![Screenshot 2023-08-09 115346-3](https://github.com/abhinavverma658/Daily_Horoscope_Telegram_Bot/assets/73075510/cd73ebce-2a20-4793-adb2-85fd8a61c17a)
+   Designing workflow and implementing use case
+
+
+
+
 
